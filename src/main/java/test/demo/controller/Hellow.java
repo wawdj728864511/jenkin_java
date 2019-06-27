@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Hellow {
     @RequestMapping("/test")
     public Object he(){
-        return "a";
+        return "a67878dsfasdskjhfaj代表";
     }
 }
